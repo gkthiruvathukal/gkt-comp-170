@@ -16,7 +16,7 @@ In software development/engineering parlance, we typically describe a scenario a
 
 As we will learn later in the course, development environments such as Visual Studio (from Microsoft) and MonoDevelop (an open source implementation similar to Visual Studio) basically shield you from the details of understanding the workflow in detail. We think it is important that you learn this workflow from day one, because many types of software development don't always have the easiest software development tools.
 
-## Your Job
+## To be completed in the lab
 
 The following is the code for a very well-known program, *Hello, World!*:
 
@@ -35,9 +35,9 @@ The following is the code for a very well-known program, *Hello, World!*:
 
 This program is deliberately simple, so you can type it into a text editor (we are assuming Emacs here) quickly and become familiar with how to create, edit, and save a program. Perform the following steps. (You are free to deviate but may want to consider following the steps religiously at least once to ensure you were successful.)
 
-1. Open your text editor. This can usually be done from your GUI's menu.
+1. Open the Emacs text editor. This can usually be done from your GUI's start menu.
 
-1. Create a folder anywhere you like (e.g. in Documents) and name it `hello`. (This can be done through the desktop shell (e.g. Windows Explorer or Apple Finder.) As a   general rule, we recommend that you start any new programming project in its own folder that is free of other folders/files. Clutter is a great enemy of learning to become a programmer.
+1. Create a folder anywhere you like (e.g. in Documents) and name it `hello`. (This can be done through the desktop shell (e.g. Windows Explorer or Apple Finder.) As a   general rule, we recommend that you start any new programming project in its own folder that is free of other folders/files. Clutter is a great enemy of those who aspire to become good programmers.
 
 1. When you start in Emacs, you are in what is known as *scratch* mode. Typical of a sketchpad used by artists, this is where you can start typing right away. You can now begin typing in the text above. Keep in mind that the exact formatting is not important at this stage; however, as we progress in this course, you'll *want* to pay attention to how your code is formatted. (With Emacs, it is possible to reformat your code to make it *beautiful*. More on that later.)
 
@@ -103,3 +103,15 @@ into `Hello.exe` so we can run it. FYI, you should still be in the Terminal/DOS 
 At this point, we have accomplished the major objective for Lab 0: to enter, compile, and run a C# program. In the next lab, we will work on some revisions to `Hello.cs` to personalize it a bit. 
 
 As this point, you should grab the instructor or teaching assistant so they can perform a quick inspection of your work and check it off. Per the syllabus, labs are not graded but do need to be completed to receive credit. If you are unable to make class on a lab day, please make sure that you complete the work and demonstrate it by the beginning of the next lab.
+
+## For further reinforcement
+
+1. Download and install the Emacs and Mono Software Development Kit on your home computer or laptop.
+
+2. Make sure you an do everything that you just completed in the lab.
+
+3. See whether you can get a head start on Lab 1.
+
+## What's next in Lab 1?
+
+We'll continue learning more about C#. The next lab will give you exposure to the C# interactive mode (in Mono, the `csharp` command), where we will learn to work with arithmetic and basic primitive types. The `csharp` command allows you to use C# as a sort of "toy calculator" language. It also allows you to test capabilities of the C# *programming library*. For example, we will learn some other things you can do with the `Console` interfaces, including how to prompt a user for input.
