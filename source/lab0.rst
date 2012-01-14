@@ -1,5 +1,5 @@
-COMP 170 - Introduction to Computer Science - Lab 0
-===================================================
+Lab 0: Editing, Compiling, and Running
+======================================
 
 Summary
 -------

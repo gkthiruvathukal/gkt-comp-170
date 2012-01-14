@@ -149,7 +149,9 @@ component of your final grade in the course. Take advantage of the help
 the TA's and I can give you in the lab! The TA's are Shruti Sudhindra
 and Vasant Parvatagiri, with Loyola mail ID's ssudhindra and
 vparvatagiri.
- ## Programming Environment
+
+
+## Programming Environment
 
 We will be programming in C#--a language developed by Microsft as part
 of the .Net framework. As this is a computer science course, however,
@@ -214,7 +216,8 @@ project, and you can use the feedback you get to make sure you are on a
 successful track for a final submission. Each team will present their
 game in part of the final exam period, and then we can all play other
 teams' games! This is in lieu of a final exam.
- At the end of the project, I will ask each team member individually to
+
+At the end of the project, I will ask each team member individually to
 turn in a form identifying the principal contributions of each member of
 their group.
 

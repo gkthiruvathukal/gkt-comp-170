@@ -3,13 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to COMP 170 Thiruvathukal's documentation!
-==================================================
+Welcome to Dr. Thiruvathukal's COMP 170
+=======================================
+
+This site contains content that is specific to Dr. Thiruvathukal's offering.
+There are also common lecture notes between Dr. Thiruvathukal's and 
+Dr. Harrington's sections. (Link to appear shortly.)
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
 
    syllabus
