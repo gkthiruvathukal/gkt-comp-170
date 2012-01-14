@@ -258,21 +258,42 @@ Policies <http://www.luc.edu/its/policy_acceptableuse_public.shtml>`_
 
 Grading Breakdown/Weights
 
--  3 Exams: 50%
+.. csv-table:: Grading Categories/Weights
+   :header: "Category", "Quantity", "Weight"
+   :widths: 15, 10, 30
 
-   -  Lowest exam, 10%
-   -  Two highest exams, 20%
+   "Exams", 3, 40%
+   "Labs", 15, 15%
+   "Homework", 3, 15%
+   "Final Project", 1, 20%
+   "Participation", 1, 10%
 
--  Homework and Labs, 30%
-
--  Final Project, 20%
 
 The assignment/lab grade is a percentage of the maximum points possible.
 The maximum excludes any extra credit options. Exams may be
 scaled/curved. I convert the numerical grade from the final weighted
 average to course letter grades with the following minimum requirements:
 
-    A 93 A- 90 B+ 87 B 83 B- 80 C+ 77 C 73 C- 70 D+ 67 D 60
+
+.. csv-table:: Grading Scale
+   :header: "Grade", "Percentage"
+   :widths: 15, 10
+
+   "A", 93
+   "A-", 90
+   "B+", 87
+   "B", 83 
+   "B-", 80
+   "C+", 77
+   "C", 73
+   "C-", 70
+   "D+", 67
+   "D", 60
+
+It is my general policy to help students evaluate their options, if their
+work at midterm is not at 70% or higher. Should you find yourself in the
+position of falling short of this level, please make an appointment so we
+can discuss your next steps.
 
 If you have consistently displayed more knowledg, ability, and genuine
 interest in class discussions than you show in your exams, I may raise
